@@ -1,0 +1,7 @@
+universe,horizon_days,n_stocks,avg_pair_corr,pc1_share
+all,1,20,0.033,0.089
+all,5,20,0.074,0.136
+all,20,19,0.178,0.24
+liquid,1,6,0.067,0.226
+liquid,5,6,0.142,0.305
+liquid,20,6,0.248,0.407

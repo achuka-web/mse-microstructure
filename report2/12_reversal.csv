@@ -1,0 +1,7 @@
+universe,series,days,mean_daily_bp,t_stat,ann_sharpe
+all,gross,3282.0,13.4,4.58,1.29
+all,net_of_spread,3282.0,-150.8,-50.81,-14.32
+all,avg_cost_bp,,164.2,,
+liquid,gross,2289.0,2.1,0.59,0.2
+liquid,net_of_spread,2289.0,-111.7,-30.77,-10.39
+liquid,avg_cost_bp,,113.8,,
