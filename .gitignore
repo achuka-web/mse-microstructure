@@ -1,0 +1,7 @@
+# raw downloaded data (public, re-downloadable via src/mse_history.py)
+mse_*.csv
+data/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
